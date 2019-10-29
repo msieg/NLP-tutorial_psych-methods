@@ -1,0 +1,12 @@
+numpy
+nltk
+wikipedia
+pandas
+scipy
+cmudict
+umap-learn
+matplotlib
+vaderSentiment
+afinn
+sentistrength
+requests
