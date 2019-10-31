@@ -3,8 +3,15 @@ NLP tutorial for the psych methods group at Columbia
 
 # Installation
 
-Clone or download this repository
+i) Clone or download this repository
 
-CD into the repoistory directory and run: pip install -r requirements.txt
+ii) CD into the repoistory directory and run: pip install -r requirements.txt
 
-For the GloVe vector code, you will need to download this 1gb text file and add it to the repo: http://nlp.stanford.edu/data/glove.6B.zip
+iii) For the GloVe vector code, you will need to download this 1gb text file and add it to the repo: http://nlp.stanford.edu/data/glove.6B.zip
+
+
+# How to run
+
+There are 5 Jupyter Notebook tutorials that you can run through Anaconda Navigator:   https://docs.anaconda.com/anaconda/navigator/getting-started/
+
+Each tutorial has independent code/variables, but I recommend going through them in order. 
